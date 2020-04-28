@@ -1,3 +1,11 @@
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+
 /*
  * FTBUtils Copyright © 2014 Ilya Dynin
  */
@@ -380,45 +388,45 @@ public class FTBUtils {
       chEdgeMap.clear();
       // @formatter:off
       chEdgeMap.put(
-          "Miami",
+          "Staging",
           new SimpleEntry<String, Integer>(
-              "miami1.creeperrepo.net",
+              "87.117.245.3",
               Integer.MAX_VALUE)
           );
       chEdgeMap.put(
-          "Chicago",
+          "San Jose",
           new SimpleEntry<String, Integer>(
-              "chicago2.creeperrepo.net",
+              "8.17.252.26",
               Integer.MAX_VALUE));
       chEdgeMap.put(
-          "Nottingham",
+          "Sydney",
           new SimpleEntry<String, Integer>(
-              "england2.creeperrepo.net",
+              "43.245.167.43",
               Integer.MAX_VALUE));
       chEdgeMap.put(
           "Grantham",
           new SimpleEntry<String, Integer>(
-              "england3.creeperrepo.net",
+              "185.57.191.130",
               Integer.MAX_VALUE));
       chEdgeMap.put(
-          "Los Angeles",
+          "Buffalo",
           new SimpleEntry<String, Integer>(
-              "losangeles1.creeperrepo.net",
+              "198.23.140.130",
               Integer.MAX_VALUE));
       chEdgeMap.put(
           "Atlanta",
           new SimpleEntry<String, Integer>(
-              "atlanta1.creeperrepo.net",
+              "69.31.134.154",
               Integer.MAX_VALUE));
       chEdgeMap.put(
-          "Atlanta-2",
+          "Seattle",
           new SimpleEntry<String, Integer>(
-              "atlanta2.creeperrepo.net",
+              "198.23.149.146",
               Integer.MAX_VALUE));
       chEdgeMap.put(
           "Maidenhead",
           new SimpleEntry<String, Integer>(
-              "england1.creeperrepo.net",
+              "78.129.201.23",
               Integer.MAX_VALUE));
       // @formatter:on
     }
